@@ -1,0 +1,28 @@
+h1{
+    color:cyan;
+}
+.header{
+    background-color: darkseagreen;
+    display: flex;
+    justify-content: space-between;
+}
+.site-description{
+    display:flex;
+    flex-direction:column;
+    justify-content:first baseline
+    background-color: yellow;
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: yellow;
+}
+.footer{
+display:flex;
+justify-content: flex-end;
+}
+p,h2{
+    background-color: deepskyblue;
+    text-allign:centre;
+}
